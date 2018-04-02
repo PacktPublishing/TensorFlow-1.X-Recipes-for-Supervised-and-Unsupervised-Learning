@@ -1,6 +1,5 @@
-# TensorFlow-1.X-Recipes-for-Supervised-and-Unsupervised-Learning
+# TensorFlow-1.X-Recipes-for-Supervised-and-Unsupervised-Learning [Video]
 TensorFlow 1.X Recipes for Supervised and Unsupervised Learning, Published by Packt
-# TensorFlow 1.X Recipes for Supervised and Unsupervised Learning [Video]
 This is the code repository for [TensorFlow 1.X Recipes for Supervised and Unsupervised Learning [Video]](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-1x-recipes-supervised-and-unsupervised-learning-video?utm_source=github&utm_medium=repository&utm_campaign=9781788398756), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Deep Learning models often perform significantly better than traditional machine learning algorithms in many tasks. This course consists of hands-on recipes to use deep learning in the context of supervised and unsupervised learning tasks. 
