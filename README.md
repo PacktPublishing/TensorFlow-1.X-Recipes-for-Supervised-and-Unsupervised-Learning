@@ -19,11 +19,7 @@ To address many different use cases, this product presents recipes for both the 
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
 This video is for Data Analysts, Data Scientists, Data Engineers, Software Engineers, and anyone working with Python and data who want to perform Machine Learning on a regular basis and use TensorFlow to build Deep Learning models. A familiarity with basic Machine Learning concepts and basic awareness of the most common Machine Learning algorithms along with fluency in Python 3 is expected.
-### Technical Requirements
-This course has the following software requirements:<br/>
-...
 
 ## Related Products
 * [TensorFlow for Machine Learning Solutions [Video]](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-solutions-video?utm_source=github&utm_medium=repository&utm_campaign=9781789136272)
