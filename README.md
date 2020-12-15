@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # TensorFlow-1.X-Recipes-for-Supervised-and-Unsupervised-Learning [Video]
 TensorFlow 1.X Recipes for Supervised and Unsupervised Learning, Published by Packt
 This is the code repository for [TensorFlow 1.X Recipes for Supervised and Unsupervised Learning [Video]](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-1x-recipes-supervised-and-unsupervised-learning-video?utm_source=github&utm_medium=repository&utm_campaign=9781788398756), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
